@@ -1,0 +1,13 @@
+
+install :
+
+ 2-python install      sudo apt-get update ===>sudo  apt-get  install python3.5 ===>python3 -V
+ 3-pyqt5               sudo apt-get install python3-pip sudo  sudo apt-get install python3-pyqt5
+ 4-pyqt5-tools         sudo apt-get install pyqt5-dev-tools    ===>type(designer)
+ 5-pyinstaller
+ 
+ 6-notepad++
+ 7-IDLE python
+ 
+ 8-pyuic5
+ 
